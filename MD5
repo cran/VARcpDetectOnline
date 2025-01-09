@@ -1,0 +1,9 @@
+3a3507a32fed12f11810d4899ab9fbd6 *DESCRIPTION
+a07ba57ee0c0129d12712c85d7effdb9 *LICENSE
+08fa22e4cb7c7b5a109f901aa1add46e *NAMESPACE
+eb0e3b59d6436b32145fdacdef231287 *R/main_function.R
+933308dd6bd285c8d1bcd70376cad2f3 *data/sp500.RData
+0eeeab9f652a3b5fad278e6546049b45 *man/VAR_cpDetect_Online.Rd
+9235ed129e28d685c44e35973ef319d1 *man/generateVAR.Rd
+a2ca64f9fddbc1b1908aa87aa8b7136b *man/get_cps.Rd
+c99a21a42f12879d837b854240ae4a08 *man/sp500.Rd
