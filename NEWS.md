@@ -1,3 +1,7 @@
+# VARcpDetectOnline 0.2.1
+
+* Email updated.
+
 # VARcpDetectOnline 0.2.0
 
 * Removed dependency on the `sparsevar` package by incorporating the necessary functions directly.
